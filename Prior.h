@@ -44,9 +44,9 @@ public:
   void prepare_sightline(double, double);
   double prior(double, double);
   double prior_mag();
-  void setup_flat();
-  void setup_thin();
-  void setup_thin_DR2_old();
+  //void setup_flat();
+  //void setup_thin();
+  //void setup_thin_DR2_old();
   void setup_flat_DR2();
   void setup_thin_DR2();
   GRVS_prior();
