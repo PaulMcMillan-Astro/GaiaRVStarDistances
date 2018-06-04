@@ -1,5 +1,8 @@
 # GaiaRVStarDistances
 
+[![DOI](https://zenodo.org/badge/135594054.svg)](https://zenodo.org/badge/latestdoi/135594054)
+
+
 Simple code to determine distances for Gaia stars from DR2 with quoted radial
 velocities. The input required includes the parallax and G & G<sub>RP</sub> magnitudes.
 
