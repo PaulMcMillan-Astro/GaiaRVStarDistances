@@ -8,5 +8,7 @@ account.
 
 It does not include any dust extinction.
 
+I've now included a Jupyter notebook which shows how to download data from the
+Gaia archive, format it for the pipeline, and run the pipeline
 
 See McMillan 2018 (RNAAS) for details.
